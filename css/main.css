@@ -146,7 +146,7 @@ img.article-image {
   top: -4px;
 }
 
-.demo-card-event > .mdl-card__actions {
+/*.demo-card-event > .mdl-card__actions {
     -webkit-align-items: center;
         -ms-flex-align: center;
             align-items: center;
@@ -154,7 +154,7 @@ img.article-image {
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-}
+}*/
 
 .portfolio-contact .mdl-textfield {
   width: 100%;
@@ -163,6 +163,20 @@ img.article-image {
 .portfolio-contact form {
   max-width: 550px;
   margin: auto;
+}
+
+.findme-card > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../images/findme.jpg') center / cover;
+}
+
+.mdi {
+  font-size: 30px;
+}
+
+.mdl-card {
+  min-height: 50px;
 }
 
 footer {
