@@ -26,9 +26,9 @@
   min-height: 200px;
 }
 
-.is-compact .portfolio-logo-row {
+/*.is-compact .portfolio-logo-row {
   min-height: auto;
-}
+}*/
 
 .portfolio-logo {
   background: url(../images/logo.png) 50% no-repeat;
@@ -169,6 +169,17 @@ img.article-image {
   color: #fff;
   height: 176px;
   background: url('../images/findme.jpg') center / cover;
+}
+
+.books-card > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../images/books.jpg') center / cover;
+}
+
+.findme-card, .books-card {
+  width:45%;
+  margin:0 2.5%;
 }
 
 .mdi {
