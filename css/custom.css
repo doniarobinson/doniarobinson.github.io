@@ -1,0 +1,23 @@
+.container, .container-fluid {
+  /*background: url('../images/clouds.jpg');*/
+  background-color: #0090c1;
+}
+
+h1 {
+  color: white;
+}
+
+.panel-heading {
+/*  padding: 0;*/
+  height:200px;
+}
+
+.books-heading {
+  background: url('../images/books.jpg');
+  background-size: cover;
+}
+
+.findme-heading {
+  background: url('../images/findme.jpg');
+  background-size: cover;
+}
