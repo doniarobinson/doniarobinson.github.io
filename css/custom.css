@@ -4,9 +4,8 @@ body {
 }
 
 .container, .container-fluid {
-  background: url('../images/pumpkins.jpg') #0090c1;
+  background: url('../images/pumpkins-dark.jpg') #0090c1;
   background-size: cover;
-  /*background-color: #0090c1;*/
 }
 
 h1 {
