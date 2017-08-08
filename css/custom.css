@@ -62,3 +62,7 @@ dd {
   background-color: #93387d;
   border-color: #63057d;
 }
+
+ul.extra-space > li {
+  margin-bottom: 10px;
+}
