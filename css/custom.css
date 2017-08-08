@@ -47,6 +47,11 @@ h1 {
   background-size: cover;
 }
 
+.volunteer-heading {
+  background: url('../images/gears.jpg');
+  background-size: cover;
+}
+
 dd {
   padding-bottom: 10px;
 }
