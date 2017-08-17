@@ -1,15 +1,20 @@
 
 body {
-  background-color: #21295c;
+  background-color: #8f2d56;
 }
 
 .container, .container-fluid {
-  background: url('../images/pumpkins-dark.jpg') #21295c;
-  background-size: cover;
+  /*background: url('../images/pumpkins-dark.jpg') #21295c;
+  background-size: cover;*/
 }
 
 h1 {
   color: white;
+}
+
+.panel {
+  border: 3px solid #ffffff;
+  border-radius: 0;
 }
 
 .panel-title {
@@ -64,8 +69,8 @@ dd {
 .btn-primary:focus,
 .btn-primary.focus,
 .btn-primary:hover {
-  background-color: #93387d;
-  border-color: #63057d;
+  background-color: #235789;
+  border-color: #033769;
 }
 
 ul.extra-space > li {
